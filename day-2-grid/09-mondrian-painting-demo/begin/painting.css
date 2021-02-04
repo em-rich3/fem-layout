@@ -4,7 +4,9 @@
   height: 600px;
   background: url(painting.png) no-repeat;
   display: grid;
-  grip-gap: 10px;
+  grid-gap: 30px 20px;
+  grid-template-rows: 170px 210px 61 px 61px;
+  grid-template-columns: 124px 376px 42px ;
  
 }
 div {
